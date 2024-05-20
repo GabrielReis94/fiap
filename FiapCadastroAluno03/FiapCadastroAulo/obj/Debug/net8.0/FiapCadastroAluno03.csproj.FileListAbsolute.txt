@@ -48,6 +48,7 @@ C:\postech\FiapCadastroAluno03\FiapCadastroAulo\obj\Debug\net8.0\FiapCadastroAlu
 C:\postech\FiapCadastroAluno03\FiapCadastroAulo\obj\Debug\net8.0\FiapCadastroAluno03.csproj.CoreCompileInputs.cache
 C:\postech\FiapCadastroAluno03\FiapCadastroAulo\obj\Debug\net8.0\FiapCadastroAluno03.MvcApplicationPartsAssemblyInfo.cs
 C:\postech\FiapCadastroAluno03\FiapCadastroAulo\obj\Debug\net8.0\FiapCadastroAluno03.MvcApplicationPartsAssemblyInfo.cache
+C:\postech\FiapCadastroAluno03\FiapCadastroAulo\obj\Debug\net8.0\FiapCadastroAluno03.sourcelink.json
 C:\postech\FiapCadastroAluno03\FiapCadastroAulo\obj\Debug\net8.0\staticwebassets.build.json
 C:\postech\FiapCadastroAluno03\FiapCadastroAulo\obj\Debug\net8.0\staticwebassets.development.json
 C:\postech\FiapCadastroAluno03\FiapCadastroAulo\obj\Debug\net8.0\staticwebassets\msbuild.FiapCadastroAluno03.Microsoft.AspNetCore.StaticWebAssets.props

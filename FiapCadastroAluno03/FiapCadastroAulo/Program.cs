@@ -1,6 +1,6 @@
 using Fiap_Aula3_CadastroAlunosAPI.Implementations;
 using Fiap_Aula3_CadastroAlunosAPI.Interfaces;
-using Microsoft.Extensions.DependencyInjection;
+using Fiap_Aula3_TrabalhandoLogs.Logging;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +11,12 @@ builder.Services.AddScoped<IAlunoCadastro, AlunoCadastro>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Logging.ClearProviders();
+builder.Logging.AddProvider(new CustomLoggerProvider(new CustomLoggerProviderConfiguration
+{
+    LogLevel = LogLevel.Information,
+}));
 
 var app = builder.Build();
 
