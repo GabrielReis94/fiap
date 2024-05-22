@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BcCnOFWOIhldt1Zs48/CMhH7dEZ0LYZrMDLDqdLlR4w29CX1A16lO331erctd8jf0Fvm/ncZb60P5O7dQ2few==",
+  "success": true,
+  "projectFilePath": "C:\\postech\\Fiap-Aula5-JsonMessagePack\\Fiap-Aula5-JsonMessagePack\\Fiap-Aula5-JsonMessagePack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel\\.nuget\\packages\\messagepack\\2.5.140\\messagepack.2.5.140.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\messagepack.annotations\\2.5.140\\messagepack.annotations.2.5.140.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.net.stringtools\\17.6.3\\microsoft.net.stringtools.17.6.3.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
