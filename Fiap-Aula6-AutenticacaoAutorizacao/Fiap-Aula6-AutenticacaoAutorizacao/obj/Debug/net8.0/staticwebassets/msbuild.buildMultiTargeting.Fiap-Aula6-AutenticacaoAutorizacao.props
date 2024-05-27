@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fiap-Aula6-AutenticacaoAutorizacao.props" />
+</Project>

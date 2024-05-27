@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fiap-Aula7-PersistenciaBD.props" />
+</Project>
