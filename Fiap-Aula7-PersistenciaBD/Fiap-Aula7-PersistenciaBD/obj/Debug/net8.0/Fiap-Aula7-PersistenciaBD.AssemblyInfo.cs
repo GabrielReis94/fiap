@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fiap-Aula7-PersistenciaBD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed9e219effa2e098eb1fbe910279972d6a5fe9df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fiap-Aula7-PersistenciaBD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fiap-Aula7-PersistenciaBD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
